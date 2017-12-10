@@ -1,0 +1,1 @@
+My documented struggle with learning the TensorFlow API. There are a few simple examples here which helped me hone in on a style for using this API. I started with a simple 2-class classification problem and linear regression.  I then took a stab at something with several layers by teaching a radial basis function network to recognize a parabola.
